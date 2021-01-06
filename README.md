@@ -1,7 +1,7 @@
 # contact_parsing_vcf
 
-* This code helps convert the `vcf contact file extension` to a more human readable format
-* Big thank to a friend in person of [**Mr Edeh Godwin**](https://github.com/tcharkovski) who also help provide insight in the process of writing this code
+## This code helps convert the `vcf contact file extension` to a more human readable format
+
 In the past I had misplaced my phone severally which had affected my contacts distribution. This led me to think of the proper way to resolve this problem so that I could still access my contact during this period. Two ways I discovered in the period of my research.
 
 One was to explore the cloud platform  which without doubt provides the best option because cloud platforms like Google, yahoo etc. have made it seamless to synchronize your contacts between your local drive and the cloud platform but just like the saying: ‘for every action, there is an equal and opposite reaction’ which is reminiscent of  a third world country like Nigeria where access to internet is scarce and the larger percentage of the population do not have access to sophisticated gadget that can get this done for them.
@@ -15,3 +15,6 @@ For privacy reasons, I did not include any .vcf file as part of the file uploade
 *This is a work in progress as one can envisage that the code will be put into production soonest.*
 
 **I would consider it an honor to hear your comments on the work.** 
+
+* Big thank to a friend in person of [**Mr Edeh Godwin**](https://github.com/tcharkovski) who also help provide insight in the process of writing this code as well has **Mr Peter Oluwatosin** who helped with the editing of the text
+
